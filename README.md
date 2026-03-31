@@ -154,12 +154,8 @@ class AchantaSharanya:
 </p>
 
 <p align="center">
-  <a href="https://github.com/SharanyaAchanta">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SharanyaAchanta/SharanyaAchanta/output/github-contribution-grid-snake-dark.svg" />
-      <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/SharanyaAchanta/SharanyaAchanta/output/github-contribution-grid-snake.svg" />
-      <img alt="Contribution Snake Animation" src="https://raw.githubusercontent.com/SharanyaAchanta/SharanyaAchanta/output/github-contribution-grid-snake-dark.svg" />
-    </picture>
+  <a href="https://github.com/SharanyaAchanta/SharanyaAchanta/actions/workflows/snake.yml">
+    <img alt="Contribution Snake Animation" src="https://raw.githubusercontent.com/SharanyaAchanta/SharanyaAchanta/output/github-contribution-grid-snake.svg" />
   </a>
 </p>
 
